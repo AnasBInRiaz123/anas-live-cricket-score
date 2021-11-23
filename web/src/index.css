@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background: url(img/pexels-patrick-case-3657154.jpg) no-repeat;
-  background-color: #493f39;
+  /* background-color: #493f39; */
   background-blend-mode: multiply;
   background-size: cover;
   background-position: center;
